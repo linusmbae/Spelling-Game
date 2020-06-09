@@ -1,8 +1,10 @@
-package com.kingori.spellinggame;
+package com.kingori.spellinggame.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.kingori.spellinggame.R;
 
 public class MainActivity extends AppCompatActivity {
 
